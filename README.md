@@ -26,42 +26,10 @@ Python | SQL | Pandas | NumPy | Power BI | Excel | Machine Learning | Data Visua
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 Energy Consumption Forecasting
-- Built a machine learning model to predict energy consumption
-- Performed data preprocessing and feature engineering
-- Visualized trends and forecast results
-
-### 🔹 Customer Behavior Analysis
-- Analyzed customer purchasing patterns
-- Used Python and SQL for data analysis
-- Generated insights to improve business decisions
-
-### 🔹 Hotel Booking Data Analysis
-- Performed Exploratory Data Analysis (EDA)
-- Identified booking trends and cancellation patterns
-- Built interactive dashboards
-
----
-
-## 📊 GitHub Stats
-
-![Sameera's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN  
-GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+LinkedIn: https://www.linkedin.com/in/sameera-shaik-355393358/ 
+GitHub: https://github.com/sameera-shaik123  
 
----
 
-⭐ From [Shaik Sameera](https://github.com/YOUR_GITHUB_USERNAME)
